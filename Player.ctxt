@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Player(Deck)
+comment1.params=g\ x\ y
+comment1.target=void\ show(java.awt.Graphics,\ int,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ exchangeCards()
+comment3.params=input
+comment3.target=boolean\ isValidExchange(java.util.ArrayList)
+comment4.params=
+comment4.target=void\ play()
+comment5.params=output
+comment5.target=boolean\ isValid(java.util.ArrayList)
+comment6.params=g
+comment6.target=void\ showMessage(java.awt.Graphics)
+numComments=7

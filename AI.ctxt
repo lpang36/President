@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=AI(Deck)
+comment1.params=g\ x\ y
+comment1.target=void\ show(java.awt.Graphics,\ int,\ int)
+comment2.params=
+comment2.target=java.util.ArrayList\ exchangeCards()
+comment3.params=
+comment3.target=void\ play()
+comment4.params=
+comment4.target=java.util.ArrayList\ findSingle()
+comment5.params=
+comment5.target=java.util.ArrayList\ findDouble()
+comment6.params=
+comment6.target=java.util.ArrayList\ findTriple()
+comment7.params=
+comment7.target=java.util.ArrayList\ findTwo()
+numComments=8
